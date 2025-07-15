@@ -8,7 +8,7 @@ William Notaro, Chiara Panagrosso, Salvatore Piccolo, Roberto Rocco
 ## :hammer: Build
 Clone this package in the `src` folder of your ROS 2 workspace.  If you want to only clone the content files without creating the repo folder, use
 ```
-https://github.com/chiarapanagrosso/RL24-Building_your_robot_manipulator.git
+$ git clone https://github.com/chiarapanagrosso/RL24-Building_your_robot_manipulator.git
 ```
 Build the three packages
 ```
